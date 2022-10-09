@@ -37,5 +37,20 @@ Many universities and collages are also offering degrees or certificates that ar
 
 #### Technical and Non-Technical Skills
 
+##### Technical Skills
 
+| Technical | Reason                                                |
+| --------- | ----------------------------------------------------- | 
+| Unity     | A Game engine used to develop 2D and 3D games         |
+| Unreal    | 3D animation platform                                 |
+| C#        | Program language frequently used for game development |
+| C++       | General programming language                          |
 
+##### Non-Technical Skills
+
+| Non-Technical  | Reason                                                       |
+| ---------------| -------------------------------------------------------------| 
+| Creativity     | Be able to design and implement ways to meet the requirements|
+| Teamwork       | Need to be able to work well with others                     |
+| Time management| There are a lot of deadlines that need to be met             |
+| Problem solving| Be able to solve probelms quickly and efficently             |
