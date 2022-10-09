@@ -70,7 +70,7 @@ The national average salary for a game developer is $67,500 However, some senior
 ## Standard Education
 ---
 
-**All Information is for McMaster Engineering which later splits off into Software Engineering.**
+**All Information is for [McMaster Engineering](https://www.eng.mcmaster.ca/future-students/future-undergraduate-students#Why-MacEng-) which later splits off into Software Engineering.**
 
 ### Course Requirements
 ---
@@ -114,3 +114,7 @@ You are required to have 31 units (1 lecture-hour per week for 1 term or 2 hours
 - Waves, Electricity, and Magnetic Fields(PHYSICS 1E03)
 - Integrated Cornerstone Design Projects in Engineering(ENGINEER 1P13 A/B)
 - 6 units electives 
+
+## Experiential Learning
+
+Learning does not always need to be in a classroom, there are many valuable skills you need to become a videogame developer that you learn outside of the classroom. Some of these include video game projects, training, work experience, and job-shadowing. Having prior knowledge in videogame development is obviously good when trying to become a videogame developer, but failed projects are also helpful as long as you know what went wrong. For training there are many programing, leadership, and animation courses out there that will aid you when pursuing this career. Having previous employment experience is also helpful especially in the same industry which is why co-op is extremely valuble. If co-op is not an option, you could job-shadow a videogame developer and get important insight into how it is done.    
