@@ -1,5 +1,8 @@
 # Video Game Developer Career 
 ---
+
+![alt text](file:///C:/Users/nw556/Downloads/videogamedeveloper.jpg")
+
 ## The Basics of A Video Game Developer
 ---
 ### What is a Video Game Developer?
