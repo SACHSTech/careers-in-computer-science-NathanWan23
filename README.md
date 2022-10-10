@@ -124,6 +124,7 @@ Learning does not always need to be in a classroom, there are many valuable skil
 ---
 
 ### Entry Level Position
+---
 
 **Entry Level Developer (Contractor)**
 
@@ -154,3 +155,49 @@ Responsibilities:
 - Communicating with development teams to solve problems and improve processing
 - Collaborate with design and engineering team to meet operational requirements and ensure proper integration of experience haptics
 - Maintain knowledge of various software and hardware stages of systems to troubleshoot 
+
+### Mid Level Position 
+--- 
+
+**Node.js Senior Developer**
+
+| Salary         | Quick Job Description                                              | Company            | Location |
+| -------------- | ------------------------------------------------------------------ | ------------------ | -------- |
+| 75,000-115,000 | Develop and strategically coordinate development for the metaverse | Utherverse Digital | Remote   |
+
+Qualifications:
+
+- Bachelor's degree in computer science or equivalent
+- 3+ years of experience building complex web applications using the latest tooling and JavaScript frameworks (React, Redux, Node.js, Webpack, and ES6+)
+- 5 or more years of hands-on experience building Node.JS applications
+- Capable of serving multiple teams
+- Strong experience building applications backed by RESTful JSON APIs
+- Experience using NPM through low level api
+- Proficient in GIT. o Experience is creating CI/CD pipelines
+- Experience with postgress and scylladb 
+- Experience with SQL and NoSQL databases
+- Capable of working on a linux/unix environment
+- Responsibility, punctuality, dedication
+- English (intermediate+)
+- Able to learn and adapt new practices and changes
+- Willing to take a proactive approach when issues are found
+
+Nice to Have:
+
+- Jenkins experience
+- Third party API's
+- Able to collaborate in a multi-time zone environment
+- Commited to delivering high-quality software on time
+- Strong understanding of JavaScript, TypeScript and DOM limitaions
+- Knowledge of advanced UI technology (WebGL, WASM)
+- docker and/or kubernetes experience
+- gaming design affiliation
+- knowledge of mobile industry and text messaging
+- Able to work in a fast-pace remote international environment 
+- Able to create new methodologies 
+
+Responsibilities:
+- Follows coding best practices (unit testing, documentation, Git source control, etc.)
+- Transforming requirements into technical architecture then into tasks delegated to junior team members
+- Mentoring junior team members
+
