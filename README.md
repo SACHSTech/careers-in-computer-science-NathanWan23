@@ -116,5 +116,41 @@ You are required to have 31 units (1 lecture-hour per week for 1 term or 2 hours
 - 6 units electives 
 
 ## Experiential Learning
+---
 
 Learning does not always need to be in a classroom, there are many valuable skills you need to become a videogame developer that you learn outside of the classroom. Some of these include video game projects, training, work experience, and job-shadowing. Having prior knowledge in videogame development is obviously good when trying to become a videogame developer, but failed projects are also helpful as long as you know what went wrong. For training there are many programing, leadership, and animation courses out there that will aid you when pursuing this career. Having previous employment experience is also helpful especially in the same industry which is why co-op is extremely valuble. If co-op is not an option, you could job-shadow a videogame developer and get important insight into how it is done.    
+
+## Real Job
+---
+
+### Entry Level Position
+
+**Entry Level Developer (Contractor)**
+
+| Salary        | Quick Job Description                                                    | Company              | Location |
+| ------------- | ------------------------------------------------------------------------ | -------------------- | -------- |
+| 50,000-73,000 | Transform creative ideas into best-in-class location-based VR experiences| Dreamscape Immersive | Remote   |
+
+Qualifications:
+
+- 1+ years of developing in Unity
+- Strong C# skills
+- Bachelor's degree in CS or equivalent
+- Strong understanding of object/data orientated programming
+- Experience with a version control system
+- Comfortable integrating art and functionality in engine
+- ablility to adapt quickly to new coding environments and programming standards
+
+Nice to Have:
+
+- Knowledge of design patterning in gaming
+- Knowledge of KISS and SOLID principles in software architechture 
+
+Responsibilities:
+- Develop tools, create game features, and fix bugs within Deamscape's existing framework
+- Anayze preformance and implement optimizations in high and low-level code
+- Improve core technologies through testing, debugging, and intrgrating proprietary
+- SDK updates 
+- Communicating with development teams to solve problems and improve processing
+- Collaborate with design and engineering team to meet operational requirements and ensure proper integration of experience haptics
+- Maintain knowledge of various software and hardware stages of systems to troubleshoot 
