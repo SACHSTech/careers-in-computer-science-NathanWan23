@@ -126,7 +126,7 @@ Learning does not always need to be in a classroom, there are many valuable skil
 ### Entry Level Position
 ---
 
-**Entry Level Developer (Contractor)**
+**[Entry Level Developer (Contractor)](https://www.simplyhired.com/search?q=entry+level+game+developer&l=&job=KXMRU_w6r_YrLnBTHRQ5r_DZz4I9aAzGs977xjoKVeY7qhpYoG8aOA)**
 
 | Salary        | Quick Job Description                                                    | Company              | Location |
 | ------------- | ------------------------------------------------------------------------ | -------------------- | -------- |
@@ -159,7 +159,7 @@ Responsibilities:
 ### Mid Level Position 
 --- 
 
-**Node.js Senior Developer**
+**[Node.js Senior Developer](https://ca.indeed.com/Junior-Game-Developer-jobs?vjk=80db82eb813c844d)**
 
 | Salary         | Quick Job Description                                              | Company            | Location |
 | -------------- | ------------------------------------------------------------------ | ------------------ | -------- |
@@ -201,3 +201,29 @@ Responsibilities:
 - Transforming requirements into technical architecture then into tasks delegated to junior team members
 - Mentoring junior team members
 
+### Senior Level Position 
+--- 
+
+**[3C Gameplay Programmer - Hybrid Working](https://ca.linkedin.com/jobs/search?keywords=Game%2BDeveloper&location=Canada&geoId=101174742&f_E=4&currentJobId=3250630716&position=9&pageNum=0)**
+
+| Salary          | Quick Job Description                                              | Company             | Location                           |
+| --------------- | ------------------------------------------------------------------ | ------------------- | ---------------------------------- |
+| 150,000-180,000 | Gameplay programmer for a metaverse and potentially a leading role | In Technology Group | Greater Montreal Metropolitan Area |
+
+Qualifications:
+- Control of 3D mathematics for use in gameplay systems
+- Experience with real-time animation techniques
+- Strong understanding of what makes responsive and intuitive game mechanics
+- Good command of C++ programming (refactoring, optimization, debugging, and testing)
+
+Nice to Haves:
+- Attention to detail 
+- Eye for quality
+- Interest in game design 
+
+Responsibilities:
+- Programming and developing a metaverse
+- Lead a team of programmers (once landing leading role)
+
+## Work Cited
+---
