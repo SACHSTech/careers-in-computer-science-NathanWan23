@@ -98,6 +98,8 @@ A minimum of 87% average is required for consideration and a supplementary appli
 ### General Details about Program
 ---
 
+![alt text](https://www.eng.mcmaster.ca/sites/default/files/styles/720w_-_mac_eng/public/campus.png?itok=QRwtrIfY)
+
 1. You have you apply for the engineering of desire in year 2 not at entry
 
 2. Co-op available (not manditory)
@@ -105,6 +107,8 @@ A minimum of 87% average is required for consideration and a supplementary appli
 3. Constantly eveloving and adding courses like artificial intelligence, neural networking and deep learning. 
 
 4. strong admission average applicants may qualify for free choice of discipline in level II (when you want to chose what engineering you want to do)
+
+5. It is a 4 year program for normal and 4.5 for co-op
 
 ### First-year at a Glance
 ---
@@ -134,6 +138,8 @@ Learning does not always need to be in a classroom, there are many valuable skil
 
 ### Entry Level Position
 ---
+
+<img src = "https://images.pexels.com/photos/7504837/pexels-photo-7504837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="400" height="300">
 
 **[Entry Level Developer (Contractor)](https://www.simplyhired.com/search?q=entry+level+game+developer&l=&job=KXMRU_w6r_YrLnBTHRQ5r_DZz4I9aAzGs977xjoKVeY7qhpYoG8aOA)**
 
@@ -167,6 +173,8 @@ Responsibilities:
 
 ### Mid Level Position 
 --- 
+
+<img src = "https://images.pexels.com/photos/5473298/pexels-photo-5473298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="400" height="300">
 
 **[Node.js Senior Developer](https://ca.indeed.com/Junior-Game-Developer-jobs?vjk=80db82eb813c844d)**
 
@@ -212,6 +220,8 @@ Responsibilities:
 
 ### Senior Level Position 
 --- 
+
+<img src = "https://images.pexels.com/photos/7325498/pexels-photo-7325498.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="400" height="300">
 
 **[3C Gameplay Programmer - Hybrid Working](https://ca.linkedin.com/jobs/search?keywords=Game%2BDeveloper&location=Canada&geoId=101174742&f_E=4&currentJobId=3250630716&position=9&pageNum=0)**
 
