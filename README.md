@@ -246,3 +246,40 @@ Responsibilities:
 
 ## Work Cited
 ---
+
+“126 Game+Developer Jobs in Canada (4 New).” 126 Game+Developer Jobs in Canada (4 New), https://ca.linkedin.com/jobs/search?keywords=Game%2BDeveloper&amp;location=Canada&amp;geoId=101174742&amp;f_E=4¤tJobId=3250630716&amp;position=17&amp;pageNum=0. 
+
+Coursera. “What Is a Game Developer (and How Do I Become One)?” Coursera, 26 May 2022, https://www.coursera.org/articles/game-developer. 
+
+“Entry Level Game Developer Jobs.” Find Jobs and Careers - SimplyHired.com Job Search, https://www.simplyhired.com/search?q=entry%2Blevel%2Bgame%2Bdeveloper&amp;l=&amp;job=KXMRU_w6r_YrLnBTHRQ5r_DZz4I9aAzGs977xjoKVeY7qhpYoG8aOA. 
+
+“Game Developer Salaries in Canada.” Game Developer Salaries, https://www.glassdoor.ca/Salaries/game-developer-salary-SRCH_KO0,14.htm. 
+
+Indeed Editorial Team. “Top Game Developer Skills: Definition and Examples.” Indeed, 29 Sept. 2021, https://www.indeed.com/career-advice/career-development/game-developer-skills. 
+
+Node.js Senior Developer. https://ca.indeed.com/Junior-Game-Developer-jobs. 
+“Video Game Developer: Job Description.” Targetjobs, 15 Dec. 2021, https://targetjobs.co.uk/careers-advice/job-descriptions/video-game-developer-job-description. 
+
+Oakley, Simon, and Sam Nalwa. “Software Engineering.” Bachelor of Engineering - SFWRENG | Department of Computing and Software, https://www.eng.mcmaster.ca/cas/programs/degree-options/beng/software-engineering#overview. 
+
+Oakley, Simon, and Sam Nalwa. “Future Undergraduate Students.” Future Undergraduate Students | Faculty of Engineering, https://www.eng.mcmaster.ca/future-students/future-undergraduate-students#Why-MacEng-. 
+
+**Images**
+
+Carboard Citizens. “Mcmaster University Logo Png - Mcmaster University Logo, Transparent Png.” VHV.RS, https://www.vhv.rs/viewpic/iToohii_mcmaster-university-logo-png-mcmaster-university-logo-transparent/. Accessed 11 Oct. 2022. 
+
+Cottonbro. “Woman Using a Computer.” Pexels, 1 Oct. 2020, https://www.pexels.com/photo/woman-using-a-computer-5473298/. Accessed 11 Oct. 2022. 
+
+McIntyre																 February 10, Catherine. “McMaster's Engineering Degree, Served with a Side of Business Savvy.” Macleans.ca, 8 Feb. 2018, https://www.macleans.ca/education/engineering-management-mcmaster/. 
+
+Nahian, Al. “Computer Program on Computer Screen.” Pexels, 31 Mar. 2021, https://www.pexels.com/photo/computer-program-on-computer-screen-7325498/. Accessed 11 Oct. 2022. 
+
+Oakley, Simon, and Sam Nalwa. “Future Undergraduate Students.” Future Undergraduate Students | Faculty of Engineering, https://www.eng.mcmaster.ca/future-students/future-undergraduate-students#Why-MacEng-. 
+
+Ruskykh, Olha. “Person Holding Black Android Smartphone.” Pexels, 14 Apr. 2021, https://www.pexels.com/photo/person-holding-black-android-smartphone-7504837/. Accessed 11 Oct. 2022. 
+
+ThisisEngineering. “Woman Sitting in Front of Computer in Office.” Pexels, 25 Mar. 2020, https://www.pexels.com/photo/woman-sitting-in-front-of-computer-in-office-3861967/. Accessed 11 Oct. 2022. 
+
+U64 Staff &amp; Contributors. How to Do an Interview with a Video Game Developer, 7 May 2021, https://www.unseen64.net/2021/05/07/interview-video-game-developer/. Accessed 11 Oct. 2022. 
+
+ZipRecruiter Marketplace Research Team. ZipRecuiter, https://www.ziprecruiter.com/Career/High-School-Computer-Science-Teacher/What-Is-How-to-Become. Accessed 11 Oct. 2022. 
